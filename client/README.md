@@ -11,7 +11,10 @@ Hi, my name is Miri Moshe, and I am a Junior Software Engineer with full-stack t
 For this project, I chose to use **React.js** for the client side due to its popularity and flexibility. I utilized **CSS** for styling and **Redux** for managing the application state, which facilitates efficient data handling and communication with the server.
 
 # Technologies ⚙️
--**React**: 1 year of experience. I have built several applications using React, focusing on component-based architecture and state management.   -**Redux**: Familiar with the technology. I understand how to manage application state effectively and implement actions and reducers to handle data flow.   -**CSS**: 2 years of experience. I have created responsive and visually appealing designs, utilizing Flexbox and Grid layout systems for layout management.-**npm**: Proficient in using libraries. I regularly use npm to manage dependencies, install libraries, and maintain project packages.
+-**React**: 1 year of experience. I have built several applications using React, focusing on component-based architecture and state management.
+-**Redux**: Familiar with the technology. I understand how to manage application state effectively and implement actions and reducers to handle data flow.
+-**CSS**: 2 years of experience. I have created responsive and visually appealing designs, utilizing Flexbox and Grid layout systems for layout management.
+-**npm**: Proficient in using libraries. I regularly use npm to manage dependencies, install libraries, and maintain project packages.
 
 Special thanks to [**@hebcal/core**](github.com/hebcal/hebcal-es6) for their amazing library for the Jewish calendar, which is full of very relevant functions. This library has been incredibly helpful in building this project.
 
