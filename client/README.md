@@ -18,23 +18,12 @@ npm: Proficient in using libraries. I regularly use npm to manage dependencies, 
 Special thanks to @hebcal/core for their amazing library for the Jewish calendar, which is full of very relevant functions. This library has been incredibly helpful in building this project.
 
 **installation**
-install visual studio code on your computer
-open the terminal amd write npm install for installing node module 
-npm start and you are ready to go
-
-
-Ensure you have Node.js and npm installed on your computer.
-Install Visual Studio Code on your computer.
-Clone the repository: git clone 
-
-Open the terminal and navigate to the project directory:
-bash
-Copy code
-cd <project-directory>
-Run npm install to install the Node modules.
-Use npm start to start the project, and you are ready to go!
+1.Ensure you have Node.js and npm installed on your computer.
+2.Install Visual Studio Code on your computer.
+3.Clone the repository: git clone https://github.com/mirimoshe/MemorialSite.git
+4.Open the terminal and navigate to the project directory: cd client
+5.Run npm install to install the Node modules.
+6.Use npm start to start the project, and you are ready to go!
 After starting the project, you can access it by navigating to http://localhost:3000 in your web browser.
 
 
-התקנה
-תרומות 
