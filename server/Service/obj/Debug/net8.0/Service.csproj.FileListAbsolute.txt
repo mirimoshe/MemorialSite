@@ -1,0 +1,51 @@
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Service.deps.json
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Service.dll
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Service.pdb
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Common.dll
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Repository.dll
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Common.pdb
+E:\project\1\commemorative_project\Service\bin\Debug\net8.0\Repository.pdb
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.dll
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\refint\Service.dll
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\Service.pdb
+E:\project\1\commemorative_project\Service\obj\Debug\net8.0\ref\Service.dll
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Service.deps.json
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Service.dll
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Service.pdb
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Common.dll
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Repository.dll
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Common.pdb
+C:\לימודים\פרויקט\commemorative_project\Service\bin\Debug\net8.0\Repository.pdb
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.dll
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\refint\Service.dll
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.pdb
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\ref\Service.dll
+C:\לימודים\פרויקט\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Service.deps.json
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Service.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Service.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Common.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Repository.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Common.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\bin\Debug\net8.0\Repository.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\refint\Service.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\Service.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\Service\obj\Debug\net8.0\ref\Service.dll

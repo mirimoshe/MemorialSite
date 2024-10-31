@@ -1,0 +1,51 @@
+E:\project\1\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.deps.json
+E:\project\1\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+E:\project\1\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.dll
+E:\project\1\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.pdb
+E:\project\1\commemorative_project\DataContext\bin\Debug\net8.0\Repository.dll
+E:\project\1\commemorative_project\DataContext\bin\Debug\net8.0\Repository.pdb
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.CopyComplete
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.dll
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.pdb
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+E:\project\1\commemorative_project\DataContext\obj\Debug\net8.0\ref\DataContext.dll
+C:\לימודים\פרויקט\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.deps.json
+C:\לימודים\פרויקט\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\לימודים\פרויקט\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.dll
+C:\לימודים\פרויקט\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.pdb
+C:\לימודים\פרויקט\commemorative_project\DataContext\bin\Debug\net8.0\Repository.dll
+C:\לימודים\פרויקט\commemorative_project\DataContext\bin\Debug\net8.0\Repository.pdb
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.dll
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.pdb
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\ref\DataContext.dll
+C:\לימודים\פרויקט\commemorative_project\DataContext\obj\Debug\net8.0\DataCont.586C3566.Up2Date
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.deps.json
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.runtimeconfig.json
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\bin\Debug\net8.0\DataContext.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\bin\Debug\net8.0\Repository.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\bin\Debug\net8.0\Repository.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.AssemblyInfo.cs
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataCont.586C3566.Up2Date
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\refint\DataContext.dll
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.pdb
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\DataContext.genruntimeconfig.cache
+C:\מירי\פרויקטים\פרויקט הנצחה\commemorative_project\DataContext\obj\Debug\net8.0\ref\DataContext.dll

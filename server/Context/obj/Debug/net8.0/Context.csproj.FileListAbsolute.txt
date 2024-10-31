@@ -1,0 +1,11 @@
+E:\project\1\commemorative_project\Context\bin\Debug\net8.0\Context.deps.json
+E:\project\1\commemorative_project\Context\bin\Debug\net8.0\Context.dll
+E:\project\1\commemorative_project\Context\bin\Debug\net8.0\Context.pdb
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\Context.dll
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\refint\Context.dll
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\Context.pdb
+E:\project\1\commemorative_project\Context\obj\Debug\net8.0\ref\Context.dll
