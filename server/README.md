@@ -21,43 +21,15 @@ In this project, I used **C#** with **.NET** for building a robust server-side a
 -**Dependency Injection**: I implement dependency injection to manage dependencies effectively within my applications, making the code more maintainable.
 
 ## Installation 🚀
-1.Ensure you have the following installed on your computer:
-  .NET SDK (make sure to download the latest version)
-   A code editor like Visual Studio or Visual Studio Code.
-2.Clone the Repository: git clone 
+**1.** Ensure you have the following installed on your computer:       
+  -.NET SDK (make sure to download the latest version)      
+  -A code editor like Visual Studio or Visual Studio Code.     
+**2.** Open your terminal or command prompt.     
+   -Navigate to the directory where you want to clone the project.   
+   -git clone https://github.com/mirimoshe/MemorialSite.git    
+   -cd MemorialSite/server    
+**3.** Run the following command to restore the NuGet packages: dotnet restore      
+**4.** To build the project, run: dotnet build      
+**5.** Run the Server:dotnet run
 
-Open your terminal or command prompt.
-Navigate to the directory where you want to clone the project.
-Run the following command to clone the repository:
-bash
-Copy code
-git clone https://github.com/mirimoshe/MemorialSite.git
-Navigate to the Server Directory:
-
-Change into the server directory:
-bash
-Copy code
-cd MemorialSite/server
-Install Dependencies:
-
-Run the following command to restore the NuGet packages:
-bash
-Copy code
-dotnet restore
-Build the Project:
-
-To build the project, run:
-bash
-Copy code
-dotnet build
-Run the Server:
-
-Start the server by executing:
-bash
-Copy code
-dotnet run
-The server will typically run on http://localhost:5000 (or another port specified in your configuration).
-Access the API:
-
-Open your web browser or API client (like Postman) and navigate to http://localhost:5000/api to test your API endpoints.
 
