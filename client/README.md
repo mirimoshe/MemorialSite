@@ -1,12 +1,5 @@
 # Memorial Site - Client 
 
-## About me 👩‍💻
-Hi, my name is Miri Moshe, and I am a Junior Software Engineer with full-stack training. I am currently seeking my first position after two years of studying and two months of internship. I am very excited about this opportunity!
-
-
-## Contact Me 📞
-[LinkedIn Profile](https://www.linkedin.com/in/miri-moshe)
-
 ## Project description 💻
 For this project, I chose to use **React.js** for the client side due to its popularity and flexibility. I utilized **CSS** for styling and **Redux** for managing the application state, which facilitates efficient data handling and communication with the server.
 
